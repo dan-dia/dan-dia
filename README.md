@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Perkenalkan nama saya **Dandi Ahmadin**.
+
+Saya seorang siswa **Front-End Web Developer & Machine Learning Engineer ** di [Dicoding](https://www.dicoding.com/).
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dandiahmadin)ku ya.
+
 <!--
 **dandia14/dandia14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
