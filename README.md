@@ -12,8 +12,8 @@
 
 <h3 align="left">Github Statistic</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dandia14&show_icons=true&theme=algolia&locale=en&layout=compact" alt="dandia14" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dan-dia&show_icons=true&theme=algolia&locale=en&layout=compact" alt="dan-dia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dandia14&show_icons=true&locale=en&theme=algolia" alt="dandia14" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dan-dia&show_icons=true&locale=en&theme=algolia" alt="dan-dia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dandia14&theme=algolia" alt="dandia14" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dan-dia&theme=algolia" alt="dan-dia" /></p>
