@@ -15,5 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dan-dia&show_icons=true&theme=algolia&locale=en&layout=compact" alt="dan-dia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dan-dia&show_icons=true&locale=en&theme=algolia" alt="dan-dia" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dan-dia&theme=algolia" alt="dan-dia" /></p>
